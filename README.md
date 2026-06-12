@@ -126,7 +126,7 @@ HTML • CSS • JavaScript
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://saniya-chi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://www.saniya.me/)
 
 LinkedIn: https://www.linkedin.com/in/saniya-farooqui-0064a732a/
 
