@@ -1,56 +1,44 @@
-<h1 align="center">Saniya Farooqui 👋</h1>
+<h1 align="center">Hi 👋, I'm Saniya Farooqui</h1>
+
+<h3 align="center">Full Stack Developer • MERN Stack • React Native • Co-Founder of KisanX 🌾</h3>
 
 <p align="center">
-<b>Full Stack Developer • Researcher • Co-Founder @ KisanX 🌾</b>
-<br>
-Building products with code, curiosity and impact.
+Building impactful web and mobile applications with modern technologies 🚀
 </p>
 
 <p align="center">
 <a href="https://www.saniya.me">
-<img src="https://img.shields.io/badge/Portfolio-saniya.me-0A66C2?style=flat-square">
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
-<a href="mailto:saniya122400@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square">
-</a>
+
 <a href="https://www.linkedin.com/in/saniya-farooqui-0064a732a/">
-<img src="https://img.shields.io/badge/LinkedIn-Saniya%20Farooqui-blue?style=flat-square">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:saniya122400@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
 ---
 
-# 🌱 Currently Building
+# 👩‍💻 About Me
 
-```txt
-🌾 KisanX
-│
-├── Web Platform (PHP + MySQL)
-├── React Native Mobile App
-├── Node + Express APIs
-├── JWT Authentication
-└── Cloud Deployment on Render
-```
+🎓 B.Sc. Information Technology Student at Patkar-Varde College, Mumbai University
 
----
+🌾 Co-Founder of **KisanX**
 
-# ⚡ Who Am I?
+🏆 Avishkar Inter-Collegiate Research Convention Presenter
 
-```yaml
-Name: Saniya Farooqui
-Location: Mumbai, India 🇮🇳
-Education: B.Sc Information Technology
-Current Year: Second Year
-CGPA: 8.73
-Role: Full Stack Developer
-Research Interest:
-  - Agricultural Technology
-  - Secure Software Development
-  - AI Integration
-  - Mobile Applications
-```
+💻 Full Stack Developer specializing in MERN Stack
 
----
+📱 React Native Developer
+
+🔒 Cybersecurity Enthusiast
+
+☁️ Experience deploying production applications on Render
+
+🚀 Open to Software Engineering, Full Stack Development and IT Support opportunities
 
 # 🛠 Arsenal
 
@@ -76,7 +64,19 @@ Research Interest:
 Render • XAMPP • Expo • REST APIs • JWT • Context API
 OTP Verification • Password Hashing • Session Management
 ```
+---
 
+
+# 🔐 Cybersecurity Foundation
+
+* Python for Cyber Security (Erasmus+ Programme)
+* Deloitte Cybersecurity Job Simulation
+* Phishing Awareness
+* Secure Authentication
+* JWT Authentication
+* OTP Verification
+* Password Hashing
+* Session Management
 ---
 
 # 🚀 Featured Work
