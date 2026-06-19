@@ -1,261 +1,224 @@
-<h1 align="center">Hi 👋, I'm Saniya Farooqui</h1>
-
-<h3 align="center">Full Stack Developer • MERN Stack • React Native • Co-Founder of KisanX 🌾</h3>
+<h1 align="center">Saniya Farooqui 👋</h1>
 
 <p align="center">
-Building impactful web and mobile applications with modern technologies 🚀
+<b>Full Stack Developer • Researcher • Co-Founder @ KisanX 🌾</b>
+<br>
+Building products with code, curiosity and impact.
 </p>
 
 <p align="center">
 <a href="https://www.saniya.me">
-<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=firefox&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-saniya.me-0A66C2?style=flat-square">
 </a>
-
-<a href="https://www.linkedin.com/in/saniya-farooqui-0064a732a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
 <a href="mailto:saniya122400@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square">
+</a>
+<a href="https://www.linkedin.com/in/saniya-farooqui-0064a732a/">
+<img src="https://img.shields.io/badge/LinkedIn-Saniya%20Farooqui-blue?style=flat-square">
 </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 🌱 Currently Building
 
-🎓 B.Sc. Information Technology Student at Patkar-Varde College, Mumbai University
-
-🌾 Co-Founder of **KisanX**
-
-🏆 Avishkar Inter-Collegiate Research Convention Presenter
-
-💻 Full Stack Developer specializing in MERN Stack
-
-📱 React Native Developer
-
-🔒 Cybersecurity Enthusiast
-
-☁️ Experience deploying production applications on Render
-
-🚀 Open to Software Engineering, Full Stack Development and IT Support opportunities
+```txt
+🌾 KisanX
+│
+├── Web Platform (PHP + MySQL)
+├── React Native Mobile App
+├── Node + Express APIs
+├── JWT Authentication
+└── Cloud Deployment on Render
+```
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Who Am I?
+
+```yaml
+Name: Saniya Farooqui
+Location: Mumbai, India 🇮🇳
+Education: B.Sc Information Technology
+Current Year: Second Year
+CGPA: 8.73
+Role: Full Stack Developer
+Research Interest:
+  - Agricultural Technology
+  - Secure Software Development
+  - AI Integration
+  - Mobile Applications
+```
+
+---
+
+# 🛠 Arsenal
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,php,cpp,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,cpp,html,css"/>
 
-### Frontend
+### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
 
-### Mobile
+### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-### Backend
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
-### Databases
+### Cloud & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Productivity
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-* Render
-* XAMPP
-* MS Office Suite
-* Technical Documentation
+```txt
+Render • XAMPP • Expo • REST APIs • JWT • Context API
+OTP Verification • Password Hashing • Session Management
+```
 
 ---
 
-# 🔐 Cybersecurity Foundation
+# 🚀 Featured Work
 
-* Python for Cyber Security (Erasmus+ Programme)
-* Deloitte Cybersecurity Job Simulation
-* Phishing Awareness
-* Secure Authentication
-* JWT Authentication
-* OTP Verification
-* Password Hashing
-* Session Management
+### 🌾 KisanX
 
----
+A direct-to-customer marketplace connecting farmers and consumers.
 
-# 🚀 Featured Projects
+#### Phase I
 
-## 🌾 KisanX
+PHP + MySQL
 
-### Phase 1 — Web Application
+✓ Authentication
 
-**PHP • MySQL • HTML • CSS • JavaScript**
+✓ Product Listings
 
-✔ Product Listings
+✓ Cart & Wishlist
 
-✔ Cart & Wishlist
+✓ Order Management
 
-✔ Checkout
+#### Phase II
 
-✔ Order Tracking
+React Native + MERN
 
-✔ Password Hashing
+✓ JWT Security
 
-✔ Session Management
+✓ OTP Verification
 
-### Phase 2 — Mobile Application
+✓ REST APIs
 
-**React Native • TypeScript • MERN Stack • JWT**
+✓ Render Deployment
 
-✔ REST APIs
-
-✔ JWT Authentication
-
-✔ OTP Verification
-
-✔ Render Cloud Deployment
-
-✔ Improved Scalability
-
-✔ Modern UI
+✓ Cross Platform Mobile App
 
 ---
 
-## 🏠 The Capital Home
+### 🏠 The Capital Home
 
 Modern Real Estate Website
 
-**HTML • CSS • JavaScript**
+HTML • CSS • JavaScript
 
 ---
 
-## 🏡 Vastu Properties
+### 🏡 Vastu Properties
 
 Property Listing Platform
 
-**React.js • JavaScript**
+React.js • JavaScript
 
 ---
 
-## 🌐 Portfolio
+### 🌐 Portfolio
 
 🔗 https://www.saniya.me
 
 ---
 
-# 🏆 Achievements
+# 🏆 Milestones
 
 🥇 Avishkar Inter-Collegiate Research Convention
 
-🏅 Best Personality Award
+🔐 Deloitte Cybersecurity Job Simulation
 
 💻 Deloitte Technology Job Simulation
 
-🔐 Deloitte Cybersecurity Job Simulation
+☁️ Built & Deployed 3+ Live Applications
 
-☁️ Deployed 3+ Production Applications
+🏅 Best Personality Award
 
-🎓 FY GPA: 8.73
+📚 HSC: 86.17%
 
-📈 HSC: 86.17%
-
-📚 SSC: 85.60%
+🎓 CGPA: 8.73
 
 ---
 
 # 📜 Certifications
 
+```txt
 ✔ Python for Cyber Security (Erasmus+)
 
-✔ Advanced C++ — IIT Bombay
+✔ Advanced C++ - IIT Bombay
 
-✔ R Programming — IIT Bombay
+✔ R Programming - IIT Bombay
 
-✔ PHP & MySQL — IIT Bombay
+✔ PHP & MySQL - IIT Bombay
 
-✔ HTML — IIT Bombay
-
----
-
-# 🌍 Languages Spoken
-
-* English
-* Hindi
-* Marathi
+✔ HTML - IIT Bombay
+```
 
 ---
 
-# 🤝 Soft Skills
-
-* Communication
-* Teamwork
-* Problem Solving
-* Time Management
-* Research Presentation
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Saniya1207&show_icons=true&theme=tokyonight" />
-<br><br>
-<img src="https://streak-stats.demolab.com?user=Saniya1207&theme=tokyonight" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya1207&layout=compact&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saniya1207&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya1207&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Saniya1207&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Saniya1207&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
 
----
+🥇 Research Presenter @ Avishkar 2025
 
-# 🌐 Connect With Me
+🌾 Co-Founder @ KisanX
 
-<p align="center">
+💻 Full Stack Developer
 
-<a href="https://www.saniya.me">
-<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=firefox&logoColor=white">
-</a>
+📱 React Native Developer
 
-<a href="https://github.com/Saniya1207">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+🔐 Cybersecurity Learner
 
-<a href="https://www.linkedin.com/in/saniya-farooqui-0064a732a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+☁️ Cloud Enthusiast
 
-<a href="mailto:saniya122400@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-💡 Turning ideas into scalable products through code and creativity.
-</h3>
+# 🌍 Beyond Coding
+
+```txt
+📚 Reading Tech Articles
+🎨 UI/UX Exploration
+🌱 AgriTech Innovation
+🔒 Cybersecurity
+🚀 Building Products
+☕ Late Night Debugging
+```
+
+---
+
+<p align="center">
+
+### "Code is temporary, impact is permanent."
+
+<img src="https://komarev.com/ghpvc/?username=Saniya1207&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
