@@ -219,6 +219,4 @@ React.js • JavaScript
 
 ### "Code is temporary, impact is permanent."
 
-<img src="https://komarev.com/ghpvc/?username=Saniya1207&label=Profile%20Views&color=0e75b6&style=flat"/>
-
 </p>
