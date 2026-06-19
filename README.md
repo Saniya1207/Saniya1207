@@ -8,7 +8,7 @@ Building impactful web and mobile applications with modern technologies 🚀
 
 <p align="center">
 <a href="https://www.saniya.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=firefox&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/saniya-farooqui-0064a732a/">
@@ -24,17 +24,19 @@ Building impactful web and mobile applications with modern technologies 🚀
 
 # 👩‍💻 About Me
 
-🎓 B.Sc. Information Technology Student
+🎓 B.Sc. Information Technology Student at Patkar-Varde College, Mumbai University
 
-🌾 Co-Founder of **KisanX** – Farmer-to-Customer Marketplace
+🌾 Co-Founder of **KisanX**
 
-🏆 Presenter at Avishkar Inter-Collegiate Research Convention
+🏆 Avishkar Inter-Collegiate Research Convention Presenter
 
 💻 Full Stack Developer specializing in MERN Stack
 
-📱 React Native Mobile App Developer
+📱 React Native Developer
 
-🔒 Passionate about Cybersecurity & Secure Development
+🔒 Cybersecurity Enthusiast
+
+☁️ Experience deploying production applications on Render
 
 🚀 Open to Software Engineering, Full Stack Development and IT Support opportunities
 
@@ -66,17 +68,35 @@ Building impactful web and mobile applications with modern technologies 🚀
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+### Tools & Productivity
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+* Render
+* XAMPP
+* MS Office Suite
+* Technical Documentation
+
+---
+
+# 🔐 Cybersecurity Foundation
+
+* Python for Cyber Security (Erasmus+ Programme)
+* Deloitte Cybersecurity Job Simulation
+* Phishing Awareness
+* Secure Authentication
+* JWT Authentication
+* OTP Verification
+* Password Hashing
+* Session Management
 
 ---
 
@@ -84,25 +104,37 @@ Building impactful web and mobile applications with modern technologies 🚀
 
 ## 🌾 KisanX
 
-Farmer-to-Customer Marketplace Platform
+### Phase 1 — Web Application
 
-### Features
+**PHP • MySQL • HTML • CSS • JavaScript**
 
-✅ Authentication
+✔ Product Listings
 
-✅ Wishlist & Cart
+✔ Cart & Wishlist
 
-✅ Checkout System
+✔ Checkout
 
-✅ Order Tracking
+✔ Order Tracking
 
-✅ Mobile Application
+✔ Password Hashing
 
-✅ JWT Security
+✔ Session Management
 
-### Tech Stack
+### Phase 2 — Mobile Application
 
-React • React Native • Node.js • Express.js • MongoDB • PHP • MySQL
+**React Native • TypeScript • MERN Stack • JWT**
+
+✔ REST APIs
+
+✔ JWT Authentication
+
+✔ OTP Verification
+
+✔ Render Cloud Deployment
+
+✔ Improved Scalability
+
+✔ Modern UI
 
 ---
 
@@ -110,21 +142,19 @@ React • React Native • Node.js • Express.js • MongoDB • PHP • MySQL
 
 Modern Real Estate Website
 
-**Tech:** HTML • CSS • JavaScript
+**HTML • CSS • JavaScript**
 
 ---
 
 ## 🏡 Vastu Properties
 
-Responsive Property Listing Platform
+Property Listing Platform
 
-**Tech:** HTML • CSS • JavaScript
+**React.js • JavaScript**
 
 ---
 
-## 🌐 Personal Portfolio
-
-SEO-Optimized Developer Portfolio
+## 🌐 Portfolio
 
 🔗 https://www.saniya.me
 
@@ -134,27 +164,51 @@ SEO-Optimized Developer Portfolio
 
 🥇 Avishkar Inter-Collegiate Research Convention
 
+🏅 Best Personality Award
+
 💻 Deloitte Technology Job Simulation
 
 🔐 Deloitte Cybersecurity Job Simulation
 
-📱 Built and deployed production web & mobile applications
+☁️ Deployed 3+ Production Applications
 
-🏅 Best Personality Award
+🎓 FY GPA: 8.73
+
+📈 HSC: 86.17%
+
+📚 SSC: 85.60%
 
 ---
 
 # 📜 Certifications
 
-✔ Python for Cyber Security
+✔ Python for Cyber Security (Erasmus+)
 
-✔ Advanced C++
+✔ Advanced C++ — IIT Bombay
 
-✔ R Programming
+✔ R Programming — IIT Bombay
 
-✔ PHP & MySQL
+✔ PHP & MySQL — IIT Bombay
 
-✔ HTML
+✔ HTML — IIT Bombay
+
+---
+
+# 🌍 Languages Spoken
+
+* English
+* Hindi
+* Marathi
+
+---
+
+# 🤝 Soft Skills
+
+* Communication
+* Teamwork
+* Problem Solving
+* Time Management
+* Research Presentation
 
 ---
 
@@ -162,13 +216,9 @@ SEO-Optimized Developer Portfolio
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Saniya1207&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
+<br><br>
 <img src="https://streak-stats.demolab.com?user=Saniya1207&theme=tokyonight" />
-</p>
-
-<p align="center">
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya1207&layout=compact&theme=tokyonight" />
 </p>
 
@@ -187,7 +237,7 @@ SEO-Optimized Developer Portfolio
 <p align="center">
 
 <a href="https://www.saniya.me">
-<img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=firefox&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 
 <a href="https://github.com/Saniya1207">
@@ -207,8 +257,5 @@ SEO-Optimized Developer Portfolio
 ---
 
 <h3 align="center">
-💡 "Turning ideas into scalable products through code and creativity."
+💡 Turning ideas into scalable products through code and creativity.
 </h3>
-
-
-Email: saniya122400@gmail.com
