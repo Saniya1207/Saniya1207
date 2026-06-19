@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saniya Farooqui</h1>
 
-<h3 align="center">Full Stack Developer | MERN Stack | React Native | IT Support Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | React Native | Co-Founder of KisanX</h3>
 
 <p align="center">
 Building impactful solutions through Web, Mobile and Cloud Technologies 🚀
