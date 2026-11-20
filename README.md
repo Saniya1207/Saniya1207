@@ -31,11 +31,11 @@ Building scalable web platforms, high-performance client architectures, and mobi
 🎓 **B.Sc. Information Technology** student at Patkar-Varde College, University of Mumbai  
 ⚡ Co-Founder & Backend/Fintech Architect at **InstantSellMart**  
 🌾 Co-Founder & Lead Developer at **KisanX**  
-💼 Proven experience delivering **end-to-end commercial client applications** (e-commerce, fintech payouts, pharmaceutical portals)  
-🏆 **Avishkar Inter-Collegiate Research Convention** Presenter  
+💼 Proven experience delivering **end-to-end commercial client applications** (fintech payouts, resale e-commerce, pharmaceutical marketplaces)  
+🏆 **Avishkar Inter-Collegiate Research Convention** Presenter (Agriculture & Animal Husbandry)  
 💻 Full Stack Developer specializing in **MERN Stack & PHP/MySQL Architecture**  
 📱 **React Native** Mobile App Developer  
-🔒 Cybersecurity Enthusiast (Anti-XSS, Rate Limiting, Cryptographic Verification)  
+🔒 Cybersecurity Enthusiast (Anti-XSS, Rate Limiting, Dev-Console Shields, Cryptographic Signatures)  
 ☁️ Production deployments across **Render, Firebase, and Custom Domains**  
 🚀 Open to **Software Engineering, Full Stack Development, and High-Growth Tech** opportunities  
 
@@ -77,7 +77,7 @@ Google Analytics 4 Telemetry • Google Apps Script Webhooks • Zero-Bloat PWA
 * **Python for Cyber Security** (Erasmus+ Programme)
 * **Deloitte Cybersecurity & Technology** Job Simulations
 * **Cryptographic Signatures:** HMAC-SHA256 verification on payment and webhook callbacks
-* **Defense-in-Depth:** Client sanitization, anti-tamper price recalculation, and dev-console shields
+* **Defense-in-Depth:** Client input sanitization, anti-tamper price recalculation, and dev-console shields
 * **Authentication Standards:** Argon2/Bcrypt password hashing, JWT stateless access tokens, secure HTTP-only sessions, and timed OTP verification
 
 ---
@@ -86,10 +86,10 @@ Google Analytics 4 Telemetry • Google Apps Script Webhooks • Zero-Bloat PWA
 
 ### ⚡ InstantSellMart *(Commercial Client Project)*
 **High-Performance Appliance Resale & Doorstep Logistics Platform**  
-*Co-Founded & Built with partner [Aniket Dubey](https://github.com/AniketDubey)*  
+*Co-Founded & Built with partner [Aniket Dubey](https://github.com/Anniix)*  
 🔗 **Live Website:** [www.instantsellmart.com](https://www.instantsellmart.com) | 📂 **Repository:** [Saniya1207/InstantSellMart](https://github.com/Saniya1207/InstantSellMart) | 📖 **Case Study:** [Engineering Breakdown](https://www.saniya.me/blog/how-we-built-instantsellmart/)
 
-- **Backend Architecture:** High-throughput PHP 8.2 backend with indexed MySQL schemas for fast category & model queries.
+- **Backend Architecture:** High-throughput PHP 8.2 backend with indexed MySQL schemas for fast category & appliance model queries.
 - **Algorithmic Evaluation Engine:** Computes instantaneous quotes across dozens of electronics brands based on operational age, aesthetic defect scoring, and working condition.
 - **Fintech Integration:** Automated payouts via **RazorpayX** supporting instant bank IMPS/NEFT transfers and VPA/UPI validation with HMAC-SHA256 webhook signatures.
 - **Telemetry & UX:** Integrated Google Analytics 4 tracking funnels, Google Business profiling, and high-conversion mobile navigation.
@@ -104,16 +104,18 @@ Google Analytics 4 Telemetry • Google Apps Script Webhooks • Zero-Bloat PWA
 - **Pill Volume Pricing Engine:** Proportional tiered calculation scaling dynamically from 30 up to 500 units per formulation.
 - **Multi-Pathway Checkout:** Dual checkout featuring standard Web Cart address capture and an automated 1-Click WhatsApp Express Order generator.
 - **Order Tracking & Admin Portal:** Customer self-service order tracking (`track.html`), live admin dashboard (`/admin`) for inventory CRUD, carrier tracking assignment, atomic stock decrement, and lifetime-free automated order email webhooks via Google Apps Script.
-- **Security Layer:** Custom `security.js` anti-XSS filters, rate-limiting guards, and Google Cloud Firestore database rules.
+- **Security Layer:** Custom `security.js` anti-XSS filters, rate-limiting guards, and Google Cloud Firestore database security rules.
 
 ---
 
 ### 🌾 KisanX *(Avishkar Flagship Research Project)*
 **Direct-to-Customer AgriTech Marketplace Connecting Farmers Directly to Consumers**  
-🔗 **Web Platform:** [kisanx.onrender.com](https://kisanx.onrender.com) | 📂 **Web Repo:** [kisanX-web](https://github.com/Saniya1207/kisanX-web) | 📱 **Mobile Repo:** [KisanX-App](https://github.com/Saniya1207/KisanX-App)
+📖 **Case Study:** [How I Built KisanX](https://www.saniya.me/blog/how-i-built-kisanx/) | 📱 **APK:** [Download KisanX.apk](https://github.com/Anniix/aniket-portfolio/releases/download/v1.0/KisanX.apk)
 
-* **Phase I (Validation & Prototype):** PHP + MySQL monolithic prototype for rapid user testing, catalog browsing, cart, and order tracking.
-* **Phase II (Production Enterprise Rebuild):** Full MERN stack architecture with React Native cross-platform app, JWT access/refresh token rotation, automated OTP SMS verification, and Render cloud deployment.
+* **Phase I (Web Application):** PHP · MySQL · HTML/CSS/JS · Session Authentication · Fully Responsive  
+  📂 **Repository:** [Saniya1207/kisanX](https://github.com/Saniya1207/kisanX)
+* **Phase II (Mobile Application & Cloud API):** React Native (Expo) · Node.js · MongoDB · JWT Auth · Cloud Deployed on Render  
+  📂 **Backend Repo:** [Saniya1207/kisanx-backend](https://github.com/Saniya1207/kisanx-backend) | 📂 **Frontend Repo:** [Saniya1207/kisanx-frontend](https://github.com/Saniya1207/kisanx-frontend)
 
 ---
 
