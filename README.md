@@ -28,7 +28,7 @@ Building scalable web platforms, high-performance client architectures, and mobi
 
 # 👩‍💻 About Me
 
-🎓 **B.Sc. Information Technology** student at Patkar-Varde College, University of Mumbai  
+🎓 **B.Sc. Information Technology** student at Patkar-Varde College, University of Mumbai (Sem V GPA: **8.23**)  
 ⚡ Co-Founder & Backend/Fintech Architect at **InstantSellMart**  
 🌾 Co-Founder & Lead Developer at **KisanX**  
 💼 Proven experience delivering **end-to-end commercial client applications** (fintech payouts, resale e-commerce, pharmaceutical marketplaces)  
@@ -134,7 +134,7 @@ Google Analytics 4 Telemetry • Google Apps Script Webhooks • Zero-Bloat PWA
 - 💻 **Deloitte Technology** Job Simulation Completion
 - ☁️ **5+ Production Applications** Built, Architected, and Deployed
 - 🏅 **Best Personality Award** Winner
-- 🎓 **Academic Standing:** CGPA: 8.73 | HSC: 86.17%
+- 🎓 **Academic Standing:** Sem V GPA: **8.23** | FY GPA: **8.73** | SY GPA: **8.30** | HSC: **86.17%**
 
 ---
 
