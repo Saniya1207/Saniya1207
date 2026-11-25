@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saniya Farooqui</h1>
 
-<h3 align="center">Full Stack Developer • MERN Stack • React Native • Co-Founder of InstantSellMart ⚡ & KisanX 🌾</h3>
+<h3 align="center">Full Stack Developer • MERN Stack • React Native • Co-Founder of KisanX 🌾</h3>
 
 <p align="center">
 Building scalable web platforms, high-performance client architectures, and mobile applications 🚀
@@ -29,8 +29,8 @@ Building scalable web platforms, high-performance client architectures, and mobi
 # 👩‍💻 About Me
 
 🎓 **B.Sc. Information Technology** student at Patkar-Varde College, University of Mumbai (Sem V GPA: **8.23**)  
-⚡ Co-Founder & Backend/Fintech Architect at **InstantSellMart**  
 🌾 Co-Founder & Lead Developer at **KisanX**  
+⚡ Co-Built **InstantSellMart** (Backend & Fintech Architecture) with partner [Aniket Dubey](https://aniketdubey.in)  
 💼 Proven experience delivering **end-to-end commercial client applications** (fintech payouts, resale e-commerce, pharmaceutical marketplaces)  
 🏆 **Avishkar Inter-Collegiate Research Convention** Presenter (Agriculture & Animal Husbandry)  
 💻 Full Stack Developer specializing in **MERN Stack & PHP/MySQL Architecture**  
@@ -86,7 +86,7 @@ Google Analytics 4 Telemetry • Google Apps Script Webhooks • Zero-Bloat PWA
 
 ### ⚡ InstantSellMart *(Commercial Client Project)*
 **High-Performance Appliance Resale & Doorstep Logistics Platform**  
-*Co-Founded & Built with partner [Aniket Dubey](https://github.com/Anniix)*  
+*Co-Built with partner [Aniket Dubey](https://aniketdubey.in)*  
 🔗 **Live Website:** [www.instantsellmart.com](https://www.instantsellmart.com) | 📂 **Repository:** [Saniya1207/InstantSellMart](https://github.com/Saniya1207/InstantSellMart) | 📖 **Case Study:** [Engineering Breakdown](https://www.saniya.me/blog/how-we-built-instantsellmart/)
 
 - **Backend Architecture:** High-throughput PHP 8.2 backend with indexed MySQL schemas for fast category & appliance model queries.
@@ -98,6 +98,7 @@ Google Analytics 4 Telemetry • Google Apps Script Webhooks • Zero-Bloat PWA
 
 ### 💊 Nidhi Pharmaceuticals *(Commercial Client Project)*
 **International Medicine Marketplace & Live Administration Portal**  
+*Co-Built with partner [Aniket Dubey](https://aniketdubey.in)*  
 🔗 **Live Website:** [nidhipharmaceutical.com](https://nidhipharmaceutical.com/) | 📂 **Repository:** [Saniya1207/nidhi-pharmaceutical](https://github.com/Saniya1207/nidhi-pharmaceutical)
 
 - **Storefront & Catalog:** Dynamic mega-menu navigation categorizing over 20+ specialized medicine domains (Antibiotics, Ayurvedic, Cardiovascular, Pain Relief, etc.) with real-time live search.
@@ -110,6 +111,7 @@ Google Analytics 4 Telemetry • Google Apps Script Webhooks • Zero-Bloat PWA
 
 ### 🌾 KisanX *(Avishkar Flagship Research Project)*
 **Direct-to-Customer AgriTech Marketplace Connecting Farmers Directly to Consumers**  
+*Co-Founded & Built with partner [Aniket Dubey](https://aniketdubey.in)*  
 📖 **Case Study:** [How I Built KisanX](https://www.saniya.me/blog/how-i-built-kisanx/) | 📱 **APK:** [Download KisanX.apk](https://github.com/Anniix/aniket-portfolio/releases/download/v1.0/KisanX.apk)
 
 * **Phase I (Web Application):** PHP · MySQL · HTML/CSS/JS · Session Authentication · Fully Responsive  
